@@ -11,7 +11,7 @@
   "applicationDirectory": "C:\\Projects\\Pica\\src\\Pica.Api",
   "infrastructureDirectory": "C:\\Projects\\Pica\\src\\Pica.Api",
   "apiDirectory": "C:\\Projects\\Pica\\src\\Pica.Api",
-  "appDirectories": null,
+  "appDirectories": [ "C:\\Projects\\Pica\\src\\Pica.App" ],
   "buildingBlocksCoreNamespace": "BuildingBlocks.Core",
   "buildingBlocksEventStoreNamespace": "BuildingBlocks.EventStore",
   "store": null,
