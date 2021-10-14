@@ -1,0 +1,32 @@
+{
+  "projects": null,
+  "path": "C:\\Projects\\Pica",
+  "solutionName": null,
+  "rootNamespace": null,
+  "domainNamespace": "Pica.Api",
+  "applicationNamespace": "Pica.Api",
+  "infrastructureNamespace": "Pica.Api",
+  "apiNamespace": "Pica.Api",
+  "domainDirectory": "C:\\Projects\\Pica\\src\\Pica.Api",
+  "applicationDirectory": "C:\\Projects\\Pica\\src\\Pica.Api",
+  "infrastructureDirectory": "C:\\Projects\\Pica\\src\\Pica.Api",
+  "apiDirectory": "C:\\Projects\\Pica\\src\\Pica.Api",
+  "appDirectories": null,
+  "buildingBlocksCoreNamespace": "BuildingBlocks.Core",
+  "buildingBlocksEventStoreNamespace": "BuildingBlocks.EventStore",
+  "store": null,
+  "namespace": null,
+  "domain": null,
+  "core": null,
+  "api": null,
+  "entityIdDataType": null,
+  "sourceFolder": "src",
+  "testFolder": null,
+  "dbContext": "PicaDbContext",
+  "eventSourcing": false,
+  "resources": [
+    "Profile",
+    "StoredEvent",
+    "DigitalAsset"
+  ]
+}
